@@ -49,4 +49,5 @@ ___
 ___
 ___
 # Модуль пройден
-Все задания выполнены, процесс выполнения оформлен в [документальном виде](https://github.com/git-skillbox/linux/blob/module1/m1-pw-v2.pdf).
+* Все задания выполнены.
+* Процесс выполнения оформлен в [документальном виде](https://github.com/git-skillbox/linux/blob/module1/m1-pw-v2.pdf).
